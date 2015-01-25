@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = networking_cisco_ml2_ucsm
+omit = networking_cisco_ml2_ucsm/tests/*,networking_cisco_ml2_ucsm/openstack/*
+
+[report]
+ignore-errors = True
